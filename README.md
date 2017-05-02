@@ -1,4 +1,4 @@
-## Run on Bluemix 2
+## Run on Bluemix 3
 ---
 * cd to a directory you want the application in.
 * ```git clone https://hub.jazz.net/git/ajlohr/Microservices_OrdersAPI```
